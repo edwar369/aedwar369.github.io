@@ -39,7 +39,7 @@
     }
 
     .secondary {
-      color: darkgreen;
+      color: darkgrey;
     }
 
     .small-text {
