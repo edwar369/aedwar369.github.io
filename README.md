@@ -15,13 +15,13 @@
       position: relative;
     }
 
-    .overlay {
+    overlay {
       background-color: rgba(255, 255, 255, 0.85);
       padding: 40px 20px;
       min-height: 100vh;
     }
 
-    .team-member {
+    team-member {
       font-family: 'Arial', sans-serif;
       font-size: 16px;
       margin: 30px auto;
@@ -33,15 +33,15 @@
       width: 80%;
     }
 
-    .highlight {
+    highlight {
       color: darkblue;
     }
 
-    .secondary {
+    secondary {
       color: darkgrey;
     }
 
-    .small-text {
+    small-text {
       font-size: 12px;
     }
 
@@ -62,7 +62,7 @@
       text-decoration: underline;
     }
 
-    .footer {
+    footer {
       font-size: 14px;
       margin-top: 40px;
       color: gray;
