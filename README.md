@@ -115,7 +115,7 @@
     <a href="https://purdue0-my.sharepoint.com/:w:/r/personal/edwar369_purdue_edu/Documents/MGMT%20349/Our%20Management%20Team%27s%20Favorite%20Projects.docx?d=wc7ea4bf292a4485392f012d473c37b90&csf=1&web=1&e=GPYsNB" target="_blank" rel="noopener noreferrer">Click here to download (Word Document)</a></p>
 
   <div class="footer">
-      <p><b><i>Page last modified on:</i></b> <script>document.write(new Date().toLocaleDateString());</script></p>
+    <p><b><i>Page last modified on:</i></b> <script>document.write(new Date().toLocaleDateString());</script></p>
     </div>
   </div>
 </body>
